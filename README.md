@@ -1,3 +1,5 @@
+<img src="https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+
 # Introduction:
 Welcome to my data science protfolio project. For this project I will be analyzing the data on GDP and life expectancy from the World Health Organization and the World Bank and identifying the relationship between the GDP and life expectancy of six countries.
 
